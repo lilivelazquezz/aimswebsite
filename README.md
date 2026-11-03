@@ -1,2 +1,2 @@
-# aimswebsite
-demo for school
+# Aims' Website
+Demo for school
